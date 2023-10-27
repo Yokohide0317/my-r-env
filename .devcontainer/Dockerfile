@@ -1,4 +1,4 @@
-FROM yokohide0317/my-irkernel-env:0.1.0
+FROM yokohide0317/my-irkernel-env:0.2.0
 
 ARG USERNAME=vscode
 ARG USER_UID=1000
